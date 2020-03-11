@@ -19,6 +19,6 @@ export interface GeoMap {
 		features: Feature[];
 }
 
-declare module 'countries-maritime-10m-extended' {
+declare module 'countries-maritime-10km-extended' {
 		export default function(): GeoMap;
 }
