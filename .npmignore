@@ -1,0 +1,13 @@
+#npm
+.tgz
+.npmignore
+.npmrc
+package-lock.json
+npm-shrinkwrap.json
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+#Intelji IDEA
+.idea
+
