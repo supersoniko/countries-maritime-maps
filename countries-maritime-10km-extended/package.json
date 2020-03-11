@@ -1,0 +1,52 @@
+{
+  "name": "countries-maritime-10km-extended",
+  "version": "1.0.0",
+  "author": "Sacha Reinert",
+  "description": "",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supersoniko/countries-maritime-maps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/supersoniko/countries-maritime-maps/issues"
+  },
+  "homepage": "https://github.com/supersoniko/countries-maritime-maps#readme",
+  "keywords": [
+    "geo-maps",
+    "countries-land",
+    "world",
+    "earth",
+    "country",
+    "countries",
+    "map",
+    "maps",
+    "political",
+    "administration",
+    "land",
+    "lands",
+    "maritime",
+    "maritimes",
+    "coastline",
+    "coastlines",
+    "borders",
+    "boundary",
+    "bounds",
+    "bound",
+    "confine",
+    "confines",
+    "coordinate",
+    "coordinates",
+    "OSM",
+    "GeoJSON",
+    "OpenStreetMap",
+    "NaturalEarth",
+    "alpha-3",
+    "alpha-2",
+    "country code",
+    "3166",
+    "ISO"
+  ]
+}
